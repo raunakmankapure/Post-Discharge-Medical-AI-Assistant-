@@ -1,0 +1,202 @@
+[
+    {
+        "patient_name": "Amit Sharma",
+        "discharge_date": "2024-11-18",
+        "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+        "medications": ["Losartan 25mg daily", "Furosemide 40mg daily"],
+        "dietary_restrictions": "Low sodium diet (2g/day)",
+        "follow_up": "Visit after 2 weeks",
+        "warning_signs": "Swelling, fatigue, low urine output",
+        "discharge_instructions": "Monitor BP daily"
+    },
+    {
+        "patient_name": "Priya Verma",
+        "discharge_date": "2024-11-19",
+        "primary_diagnosis": "Acute Kidney Injury",
+        "medications": ["Amlodipine 5mg", "Calcium supplements"],
+        "dietary_restrictions": "Fluid restriction 1.5L/day",
+        "follow_up": "Visit after 1 week",
+        "warning_signs": "Breathlessness, dizziness",
+        "discharge_instructions": "Track urine output"
+    },
+    {
+        "patient_name": "Rahul Patil",
+        "discharge_date": "2024-11-18",
+        "primary_diagnosis": "Diabetic Nephropathy",
+        "medications": ["Metformin 500mg", "Insulin as prescribed"],
+        "dietary_restrictions": "Low carbohydrate diet",
+        "follow_up": "Visit after 3 weeks",
+        "warning_signs": "Foot numbness, vomiting",
+        "discharge_instructions": "Monitor sugar levels daily"
+    },
+    {
+        "patient_name": "Sneha Kulkarni",
+        "discharge_date": "2024-11-20",
+        "primary_diagnosis": "Nephrotic Syndrome",
+        "medications": ["Prednisolone 10mg", "Atorvastatin 10mg"],
+        "dietary_restrictions": "Low fat & low salt diet",
+        "follow_up": "Visit after 2 weeks",
+        "warning_signs": "Sudden swelling",
+        "discharge_instructions": "Check daily weight"
+    },
+    {
+        "patient_name": "Vikram Singh",
+        "discharge_date": "2024-11-17",
+        "primary_diagnosis": "Hypertensive Nephropathy",
+        "medications": ["Ramipril 5mg daily", "Aspirin 75mg"],
+        "dietary_restrictions": "Low salt diet",
+        "follow_up": "Visit after 1 month",
+        "warning_signs": "High BP, headache",
+        "discharge_instructions": "Monitor BP twice daily"
+    },
+    {
+        "patient_name": "Neha Gupta",
+        "discharge_date": "2024-11-16",
+        "primary_diagnosis": "Urinary Tract Infection",
+        "medications": ["Nitrofurantoin 100mg", "Paracetamol if fever"],
+        "dietary_restrictions": "Increase water intake",
+        "follow_up": "Visit after 10 days",
+        "warning_signs": "Fever, abdominal pain",
+        "discharge_instructions": "Complete antibiotics course"
+    },
+    {
+        "patient_name": "Karan Mehta",
+        "discharge_date": "2024-11-21",
+        "primary_diagnosis": "Kidney Stone",
+        "medications": ["Tamsulosin 0.4mg", "Pain medication as needed"],
+        "dietary_restrictions": "Increase fluids",
+        "follow_up": "Visit after 1 week",
+        "warning_signs": "Severe flank pain, fever",
+        "discharge_instructions": "Strain urine for stones"
+    },
+    {
+        "patient_name": "Isha Reddy",
+        "discharge_date": "2024-11-18",
+        "primary_diagnosis": "Polycystic Kidney Disease",
+        "medications": ["ACE inhibitors as prescribed"],
+        "dietary_restrictions": "Low sodium diet",
+        "follow_up": "Visit after 3 weeks",
+        "warning_signs": "Severe headache, swelling",
+        "discharge_instructions": "Monitor BP daily"
+    },
+    {
+        "patient_name": "Rohit Deshmukh",
+        "discharge_date": "2024-11-19",
+        "primary_diagnosis": "Chronic Kidney Disease Stage 2",
+        "medications": ["Vitamin D supplements"],
+        "dietary_restrictions": "Low phosphate diet",
+        "follow_up": "Visit after 1 month",
+        "warning_signs": "Fatigue, decreased urine",
+        "discharge_instructions": "Regular exercise advised"
+    },
+    {
+        "patient_name": "Ananya Das",
+        "discharge_date": "2024-11-20",
+        "primary_diagnosis": "Renal Tubular Acidosis",
+        "medications": ["Sodium bicarbonate"],
+        "dietary_restrictions": "Normal diet",
+        "follow_up": "Visit after 2 weeks",
+        "warning_signs": "Muscle weakness",
+        "discharge_instructions": "Report if vomiting occurs"
+    },
+    {
+        "patient_name": "Arjun Nair",
+        "discharge_date": "2024-11-19",
+        "primary_diagnosis": "Acute Pyelonephritis",
+        "medications": ["Ciprofloxacin 500mg"],
+        "dietary_restrictions": "Fluids encouraged",
+        "follow_up": "Visit after 1 week",
+        "warning_signs": "Fever or blood in urine",
+        "discharge_instructions": "Complete antibiotics"
+    },
+    {
+        "patient_name": "Meera Sahu",
+        "discharge_date": "2024-11-21",
+        "primary_diagnosis": "Lupus Nephritis",
+        "medications": ["Prednisolone", "Hydroxychloroquine"],
+        "dietary_restrictions": "Low salt diet",
+        "follow_up": "Visit after 2 weeks",
+        "warning_signs": "Joint pain, swelling",
+        "discharge_instructions": "Avoid sunlight exposure"
+    },
+    {
+        "patient_name": "Manish Kumar",
+        "discharge_date": "2024-11-17",
+        "primary_diagnosis": "Hypertension with CKD",
+        "medications": ["Amlodipine 10mg"],
+        "dietary_restrictions": "Low salt diet",
+        "follow_up": "Visit after 3 weeks",
+        "warning_signs": "Chest pain, headache",
+        "discharge_instructions": "BP monitoring daily"
+    },
+    {
+        "patient_name": "Divya Jain",
+        "discharge_date": "2024-11-18",
+        "primary_diagnosis": "Diabetic Nephropathy",
+        "medications": ["Metformin", "Insulin"],
+        "dietary_restrictions": "Low sugar diet",
+        "follow_up": "Visit after 3 weeks",
+        "warning_signs": "Foot ulcers",
+        "discharge_instructions": "Daily foot check"
+    },
+    {
+        "patient_name": "Sanjay Choudhary",
+        "discharge_date": "2024-11-21",
+        "primary_diagnosis": "Kidney Transplant Recipient",
+        "medications": ["Tacrolimus", "Prednisolone"],
+        "dietary_restrictions": "Avoid raw foods",
+        "follow_up": "Visit after 1 week",
+        "warning_signs": "Fever, graft pain",
+        "discharge_instructions": "Take meds on time"
+    },
+    {
+        "patient_name": "Pooja Mishra",
+        "discharge_date": "2024-11-18",
+        "primary_diagnosis": "Minimal Change Disease",
+        "medications": ["Prednisolone"],
+        "dietary_restrictions": "Low salt diet",
+        "follow_up": "Visit after 2 weeks",
+        "warning_signs": "Swelling in face",
+        "discharge_instructions": "Daily weight log"
+    },
+    {
+        "patient_name": "Gaurav Yadav",
+        "discharge_date": "2024-11-20",
+        "primary_diagnosis": "Renal Colic",
+        "medications": ["Pain relief as prescribed"],
+        "dietary_restrictions": "More water intake",
+        "follow_up": "Visit after 10 days",
+        "warning_signs": "Severe pain, fever",
+        "discharge_instructions": "Strain urine"
+    },
+    {
+        "patient_name": "Nisha Khan",
+        "discharge_date": "2024-11-16",
+        "primary_diagnosis": "Chronic Glomerulonephritis",
+        "medications": ["ACE inhibitors"],
+        "dietary_restrictions": "Low sodium & protein",
+        "follow_up": "Visit after 3 weeks",
+        "warning_signs": "Foamy urine",
+        "discharge_instructions": "Monitor BP"
+    },
+    {
+        "patient_name": "Ashok Pandey",
+        "discharge_date": "2024-11-19",
+        "primary_diagnosis": "Acute Kidney Injury",
+        "medications": ["IV fluids guidance"],
+        "dietary_restrictions": "Fluid restriction 1L/day",
+        "follow_up": "Visit after 1 week",
+        "warning_signs": "Confusion, fatigue",
+        "discharge_instructions": "Track urine output"
+    },
+    {
+        "patient_name": "Ritika Joshi",
+        "discharge_date": "2024-11-22",
+        "primary_diagnosis": "Nephrotic Syndrome",
+        "medications": ["Diuretics", "Steroids"],
+        "dietary_restrictions": "Low fat diet",
+        "follow_up": "Visit after 2 weeks",
+        "warning_signs": "Rapid weight gain",
+        "discharge_instructions": "Daily weight check"
+    }
+]

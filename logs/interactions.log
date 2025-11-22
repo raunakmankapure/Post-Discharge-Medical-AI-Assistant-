@@ -1,0 +1,167 @@
+2025-11-20 22:14:32,579 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:15:35,870 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:16:32,805 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:36,082 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:37,218 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:37,635 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:38,169 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:39,203 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:39,850 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:39,958 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:40,951 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:41,144 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:41,297 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:16:41,944 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:22:22,523 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:22:34,762 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:22:37,425 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:22:57,350 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-11-20 22:26:05,553 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:26:08,503 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:26:31,986 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:27:17,867 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-20 22:30:29,738 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:30:36,552 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:30:52,175 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:33:03,452 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:33:04,547 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:35:03,309 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:35:06,349 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:35:12,739 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:43:59,149 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-20 22:44:47,106 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:44:58,383 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs thogh
+2025-11-20 22:45:37,696 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:45:38,690 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:45:39,191 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:45:39,511 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:45:39,754 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:45:40,540 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:45:43,610 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:45:44,101 - Clinical Agent: (Web search placeholder) Latest info on: 
+2025-11-20 22:46:00,119 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-20 22:46:23,202 - Clinical Agent: (Web search placeholder) Latest info on: I have pain 
+2025-11-21 16:42:36,598 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-21 16:42:43,519 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-21 16:42:53,751 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-21 16:43:55,453 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-22 09:43:19,694 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:43:29,521 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:43:45,445 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-22 09:43:50,126 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-22 09:43:50,663 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-22 09:43:52,831 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-22 09:45:27,062 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:45:34,822 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:38,231 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:39,492 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:40,773 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:46,066 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:47,816 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:51,914 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:53,157 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:54,023 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:54,410 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:54,938 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:55,619 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:56,295 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:57,035 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:45:57,759 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:47:22,617 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:47:31,465 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:47:42,738 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:47:44,966 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:47:53,743 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:47:56,212 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:47:57,506 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:48:08,600 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:48:09,478 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:49:49,393 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:50:01,555 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:50:06,446 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:50:07,142 - Clinical Agent: (Web search placeholder) Latest info on: I feel shortness of breath
+2025-11-22 09:52:02,428 - incorrect startxref pointer(1)
+2025-11-22 09:56:06,902 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:56:30,228 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:59:19,904 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 09:59:44,022 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 10:02:45,465 - Receptionist: Hi Patient 1! I found your report.
+Diagnosis: Chronic Kidney Disease Stage 3
+How are you feeling today?
+2025-11-22 10:02:55,148 - incorrect startxref pointer(1)
+2025-11-22 10:02:56,956 - Clinical Agent: (Web search placeholder) Latest info on: I have swelling in my legs
+2025-11-22 10:27:58,460 - Receptionist: Hi Patient 1! I found your report.
+Diagnosis: Chronic Kidney Disease Stage 3
+How are you feeling today?
+2025-11-22 10:28:22,591 - Clinical Agent: \U0001f4d8 Based on nephrology reference:
+:  
+- Heavy proteinuria,  hypoalbuminemia, edema, hyperlipidemia  
+- Treatment includes corticosteroids and diuretics  
+- Monitor for thrombosis  
+ 
+Key Symptoms Alert:  
+- Edema and swelling in legs  
+- Decrease in urine output  
+- Difficulty breathing  
+- Sudden weight gain  
+ 
+Dietary Recommenda tions:  
+- Reduce sodium (<2g/day)  
+- Limit fluid intake if edema present  
+- Adjust protein intake as per CKD stage  
+ 
+Medication Warnings:  - Monitor side effects of diuretics and ACE inhibitors  
+2025-11-22 10:28:32,156 - Clinical Agent: \U0001f4d8 Based on nephrology reference:
+:  
+- Heavy proteinuria,  hypoalbuminemia, edema, hyperlipidemia  
+- Treatment includes corticosteroids and diuretics  
+- Monitor for thrombosis  
+ 
+Key Symptoms Alert:  
+- Edema and swelling in legs  
+- Decrease in urine output  
+- Difficulty breathing  
+- Sudden weight gain  
+ 
+Dietary Recommenda tions:  
+- Reduce sodium (<2g/day)  
+- Limit fluid intake if edema present  
+- Adjust protein intake as per CKD stage  
+ 
+Medication Warnings:  - Monitor side effects of diuretics and ACE inhibitors  
+2025-11-22 12:22:05,528 - Receptionist: Hi Sneha Kulkarni! I found your report.
+Diagnosis: Nephrotic Syndrome
+How are you feeling today?
+2025-11-22 12:22:18,067 - Clinical Agent: \U0001f4d8 Based on nephrology reference:
+:  
+- Heavy proteinuria,  hypoalbuminemia, edema, hyperlipidemia  
+- Treatment includes corticosteroids and diuretics  
+- Monitor for thrombosis  
+ 
+Key Symptoms Alert:  
+- Edema and swelling in legs  
+- Decrease in urine output  
+- Difficulty breathing  
+- Sudden weight gain  
+ 
+Dietary Recommenda tions:  
+- Reduce sodium (<2g/day)  
+- Limit fluid intake if edema present  
+- Adjust protein intake as per CKD stage  
+ 
+Medication Warnings:  - Monitor side effects of diuretics and ACE inhibitors  
+2025-11-22 12:24:00,439 - Receptionist: Hi Sneha Kulkarni! I found your report.
+Diagnosis: Nephrotic Syndrome
+How are you feeling today?
+2025-11-22 12:25:37,381 - Receptionist: I couldn't find your discharge report. Check your name.
+2025-11-22 12:25:50,302 - Receptionist: Hi Sneha Kulkarni! I found your report.
+Diagnosis: Nephrotic Syndrome
+How are you feeling today?
+2025-11-22 12:40:34,245 - Clinical Agent: \U0001f4d8 Based on nephrology reference:
+ may present with 
+exertional dyspnea, orthopnea, and paroxysmal nocturnal dyspnea. Patients with right-sided HF or biventricular failure may exhibit weight gain and lower limb swelling. Physical examination reveals increased 
+JVP, pulmonary crackles, a third heart sound, or dependent peripheral 
+edema that may be elicited in the ankles or sacrum.
+Nephrotic patients may present with periorbital edema, especially 
+when caused by minimal change disease. However, those with severe 
+disease may exhi
